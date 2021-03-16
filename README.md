@@ -1,1 +1,1 @@
-Esta es la descripcion de mi proyecto
+Esta es la descripción de mi proyecto
